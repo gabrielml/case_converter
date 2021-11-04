@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    function getName(email) {
+        // change it
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9252#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 30 Oct 2021 20:09:30 UTC
+record: -1

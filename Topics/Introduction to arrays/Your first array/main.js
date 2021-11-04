@@ -1,0 +1,1 @@
+let myFirstArray = [10];
